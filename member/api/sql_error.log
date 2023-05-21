@@ -1,0 +1,24 @@
+28-03-2023 09:02:43 --> select code from users WHERE id='108'
+28-03-2023 09:02:43 --> insert into logs (order_id,parameter,response) values ('','Array\n(\n)\n','{\"is_verified\":null,\"status\":\"success\",\"user_id\":108,\"code\":null,\"code_sent_date\":null,\"success\":\"Your Account Has Been Successfully Registered.\"}')
+28-03-2023 09:04:00 --> insert into logs (order_id,parameter,response) values ('','Array\n(\n    [fname] => Hammad\n    [lname] => Hussain\n    [email] => hammad@friendsitsolutions.com\n    [password] => Hammad@123\n    [PHPSESSID] => 15b7bd542676b4a3e2e5aaa3a0f995b6\n)\n','{\"status\":\"failed\",\"error\":\"Registration Failed. Email or Number already exists\"}')
+28-03-2023 09:04:10 --> select code from users WHERE id='109'
+28-03-2023 09:04:10 --> insert into logs (order_id,parameter,response) values ('','Array\n(\n    [fname] => Hammad\n    [lname] => Hussain\n    [email] => hammad1@friendsitsolutions.com\n    [password] => Hammad@123\n    [PHPSESSID] => 15b7bd542676b4a3e2e5aaa3a0f995b6\n)\n','{\"is_verified\":null,\"status\":\"success\",\"user_id\":109,\"code\":null,\"code_sent_date\":null,\"success\":\"Your Account Has Been Successfully Registered.\"}')
+28-03-2023 09:15:09 --> select * from tokens WHERE token=''
+28-03-2023 09:21:10 --> select code from users WHERE id='110'
+28-03-2023 10:03:40 --> select * from invoices o join users u ON i.user_id= '109'
+28-03-2023 10:04:00 --> select * from invoices o join users u ON i.user_id= '109'
+28-03-2023 10:04:53 --> select * from invoices o join users u ON i.user_id= 109
+28-03-2023 10:04:55 --> select * from invoices o join users u ON i.user_id= 109
+28-03-2023 10:05:14 --> select * from invoices o join users u ON i.user_id= '109'
+28-03-2023 10:05:52 --> select * from invoices o join users u ON i.user_id= '109'
+28-03-2023 10:06:13 --> select * from invoices o join users u ON i.user_id= '109'
+28-03-2023 10:06:30 --> select * from invoices o join users u ON i.user_id= '109'
+28-03-2023 10:06:59 --> select * from invoices o join users u ON i.user_id= '109'
+28-03-2023 10:07:24 --> select * from invoices o join users u ON i.user_id= '109'
+28-03-2023 10:08:10 --> select * from invoices o join users u ON i.user_id= '109'
+28-03-2023 10:11:44 --> select * from invoices o join users u ON i.user_id= '109'
+28-03-2023 11:07:46 --> insert into users (user_id) values ('110')
+31-03-2023 10:01:31 --> select code from users WHERE id='111'
+31-03-2023 10:18:45 --> select code from users WHERE id='112'
+31-03-2023 10:19:12 --> select code from users WHERE id='113'
+31-03-2023 11:33:09 --> select code from users WHERE id='114'

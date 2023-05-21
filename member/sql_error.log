@@ -1,0 +1,60 @@
+10-03-2023 07:47:16 --> select * from states WHERE country_id = 231
+10-03-2023 07:47:24 --> select * from states WHERE country_id = 231
+10-03-2023 07:47:27 --> select * from states WHERE country_id = 231
+10-03-2023 07:47:42 --> select * from states WHERE country_id = 231
+10-03-2023 07:47:55 --> select * from states WHERE country_id = 231
+10-03-2023 07:48:17 --> select * from states WHERE country_id = 231
+10-03-2023 07:55:03 --> select * from states WHERE country_id = 231
+10-03-2023 07:56:50 --> select * from states WHERE country_id = 231
+10-03-2023 07:57:15 --> select * from states WHERE country_id = 231
+10-03-2023 07:58:15 --> select * from states WHERE country_id = 231
+10-03-2023 07:58:55 --> select * from states WHERE country_id = 231
+10-03-2023 08:00:11 --> select * from states WHERE country_id = 231
+10-03-2023 08:00:45 --> select * from states WHERE country_id = 231
+10-03-2023 08:02:22 --> select * from states WHERE country_id = 231
+13-03-2023 06:58:23 --> select * from states WHERE country_id = 231
+13-03-2023 06:58:42 --> select * from states WHERE country_id = 231
+13-03-2023 07:32:41 --> select * from states WHERE country_id = 231
+13-03-2023 07:35:51 --> select * from states WHERE country_id = 231
+13-03-2023 07:35:57 --> select * from states WHERE country_id = 231
+13-03-2023 07:41:35 --> select * from states WHERE country_id = 231
+13-03-2023 07:43:25 --> select * from states WHERE country_id = 231
+13-03-2023 07:45:03 --> select * from states WHERE country_id = 231
+13-03-2023 07:48:51 --> select * from states WHERE country_id = 231
+13-03-2023 07:59:06 --> select * from states WHERE country_id = 231
+13-03-2023 08:01:34 --> select * from states WHERE country_id = 231
+13-03-2023 08:03:46 --> select * from states WHERE country_id = 231
+13-03-2023 08:04:46 --> select * from states WHERE country_id = 231
+13-03-2023 08:05:21 --> select * from states WHERE country_id = 231
+13-03-2023 08:32:39 --> select * from states WHERE country_id = 231
+13-03-2023 08:32:49 --> select * from states WHERE country_id = 231
+13-03-2023 08:33:11 --> select * from states WHERE country_id = 231
+13-03-2023 08:33:20 --> select * from states WHERE country_id = 231
+13-03-2023 08:33:32 --> select * from states WHERE country_id = 231
+13-03-2023 08:34:18 --> select * from states WHERE country_id = 231
+13-03-2023 08:34:39 --> select * from states WHERE country_id = 231
+13-03-2023 09:25:30 --> select * from states WHERE country_id = 231
+13-03-2023 09:29:20 --> select * from states WHERE country_id = 231
+13-03-2023 10:11:45 --> select * from states WHERE country_id = 231
+13-03-2023 10:11:58 --> select * from states WHERE country_id = 231
+13-03-2023 10:13:33 --> select * from states WHERE country_id = 231
+13-03-2023 10:14:03 --> select * from states WHERE country_id = 231
+13-03-2023 11:49:47 --> select * from customers WHERE id=
+13-03-2023 11:51:44 --> select * from customers WHERE id=
+13-03-2023 11:52:06 --> select * from customers WHERE id=
+13-03-2023 11:52:55 --> select * from customers WHERE id=
+14-03-2023 08:00:06 --> select * from items WHERE id=
+14-03-2023 08:01:08 --> select * from items ORDER BY id desc
+14-03-2023 08:01:18 --> select * from items ORDER BY id desc
+14-03-2023 08:02:56 --> select * from items ORDER BY id desc
+14-03-2023 08:03:40 --> insert into items (sku,item,isbn,lang,publisher,country,author,sale_price,list_price,cost_origin,cost_price) values ('111','gun','1111','korean','zobi','Korea, South','mereeeeeeeeeeeee','1000000000','20000000000','','')
+14-03-2023 08:05:19 --> select * from items ORDER BY id desc
+14-03-2023 08:05:21 --> select * from items ORDER BY id desc
+14-03-2023 08:05:39 --> insert into items (sku,item,isbn,lang,publisher,country,author,sale_price,list_price,cost_origin,cost_price) values ('qwq','qqqqq','qqqq','qqqq','qq','Qatar','qqq','100','200','','')
+14-03-2023 08:05:39 --> select * from items ORDER BY id desc
+14-03-2023 08:06:24 --> select * from items ORDER BY id desc
+14-03-2023 08:06:34 --> select * from items ORDER BY id desc
+14-03-2023 08:08:32 --> select * from items ORDER BY id desc
+14-03-2023 08:08:51 --> insert into items (sku,item,isbn,lang,publisher,country,author,sale_price,list_price,cost_origin,cost_price) values ('111','qqqqq','1111','korean','zobi','Albania','2222','123','3432','','')
+14-03-2023 08:08:52 --> select * from items ORDER BY id desc
+14-03-2023 08:17:38 --> select * from items ORDER BY id desc

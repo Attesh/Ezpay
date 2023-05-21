@@ -1,0 +1,80 @@
+08-03-2023 11:50:12 --> select * from items WHERE id=
+08-03-2023 11:51:34 --> select * from items WHERE id=
+08-03-2023 02:03:01 --> select * from items
+08-03-2023 02:03:05 --> select * from items
+08-03-2023 02:03:21 --> select * from items
+08-03-2023 02:56:36 --> select * from customers WHERE id=
+08-03-2023 02:56:44 --> select * from customers WHERE id=
+08-03-2023 02:58:06 --> select * from customers WHERE id=
+08-03-2023 02:58:28 --> select * from customers WHERE id=
+08-03-2023 02:59:23 --> select * from customers WHERE id=
+08-03-2023 03:01:14 --> select * from customers WHERE id=
+08-03-2023 03:02:50 --> select * from customers WHERE id=
+08-03-2023 03:03:25 --> select * from customers WHERE id=
+08-03-2023 03:04:14 --> select * from customers WHERE id=
+08-03-2023 03:04:50 --> select * from customers WHERE id=
+08-03-2023 03:05:04 --> select * from customers WHERE id=
+08-03-2023 03:05:36 --> select * from customers WHERE id=
+08-03-2023 03:06:35 --> select * from customers WHERE id=
+09-03-2023 04:27:43 --> insert into items (isbn,customer_name,phone,gender,email,address) values ('234','sdf','2345','Male','asd@gmail.com','wer')
+09-03-2023 04:28:56 --> insert into items (isbn,customer_name,phone,gender,email,address) values ('12564','ahsgdf','1245','Female','gf@gmail.com','wyt')
+09-03-2023 04:30:55 --> insert into items (isbn,customer_name,phone,gender,email,address) values ('234','qwer','234','Others','234','234')
+09-03-2023 04:32:01 --> insert into items (isbn,customer_name,phone,gender,email,address) values ('123','qwe','123','Others','asd@gmail.com','qwe')
+09-03-2023 10:16:19 --> select * from customers WHERE id=
+09-03-2023 10:18:20 --> select * from customers WHERE id=
+09-03-2023 10:19:57 --> select * from customers WHERE id=
+09-03-2023 10:22:45 --> select * from customers WHERE id=
+09-03-2023 10:23:17 --> select * from customers WHERE id=
+09-03-2023 11:54:05 --> select * from customers WHERE id=
+09-03-2023 11:56:53 --> select * from customers WHERE id=
+09-03-2023 11:59:09 --> select * from customers WHERE id=
+09-03-2023 12:00:32 --> select * from customers WHERE id=
+09-03-2023 12:00:32 --> select * from customers WHERE id=
+09-03-2023 12:01:11 --> select * from customers WHERE id=
+09-03-2023 12:01:11 --> select * from customers WHERE id=
+09-03-2023 12:01:44 --> select * from customers WHERE id=
+09-03-2023 12:01:44 --> select * from customers WHERE id=
+09-03-2023 12:04:36 --> select * from customers WHERE id=
+09-03-2023 12:04:36 --> select * from customers WHERE id=
+09-03-2023 12:04:38 --> select * from customers WHERE id=
+09-03-2023 12:04:38 --> select * from customers WHERE id=
+09-03-2023 12:04:39 --> select * from customers WHERE id=
+09-03-2023 12:04:39 --> select * from customers WHERE id=
+09-03-2023 12:06:06 --> select * from customers WHERE id=
+09-03-2023 12:06:59 --> select * from customers WHERE id=
+09-03-2023 12:10:23 --> select * from customers WHERE id=
+09-03-2023 12:13:43 --> select * from customers WHERE id=
+09-03-2023 12:22:26 --> select * from customers WHERE id=
+09-03-2023 12:22:27 --> select * from customers WHERE id=
+09-03-2023 12:23:08 --> select * from customers WHERE id=
+10-03-2023 07:19:28 --> select * from customers
+10-03-2023 07:20:20 --> insert into customers (isbn,customer_name,phone,gender,email,address) values ('12635','Ali Hasain','098827','Male','@gmail.com','Karachi')
+10-03-2023 07:20:20 --> insert into customers (isbn,customer_name,phone,gender,email,address) values ('12635','Ali Hasain','098827','Male','@gmail.com','Karachi')
+10-03-2023 07:20:21 --> insert into customers (isbn,customer_name,phone,gender,email,address) values ('12635','Ali Hasain','098827','Male','@gmail.com','Karachi')
+10-03-2023 07:22:50 --> insert into customers (isbn,customer_name,phone,gender,email,address) values ('876575','Ali','09887','Male','@gmail.com','Ka')
+10-03-2023 11:45:50 --> select * from customers WHERE id=
+10-03-2023 11:46:19 --> select * from customers WHERE id=
+10-03-2023 01:27:25 --> DELETE FROM customers WHERE id=
+10-03-2023 01:30:35 --> DELETE FROM customers WHERE id=
+10-03-2023 01:32:06 --> DELETE FROM customers WHERE id=
+10-03-2023 01:32:30 --> DELETE FROM customers WHERE id=
+10-03-2023 01:33:10 --> DELETE FROM customers WHERE id=
+10-03-2023 01:40:33 --> DELETE FROM customers WHERE id=
+10-03-2023 01:41:31 --> DELETE FROM customers WHERE id=
+10-03-2023 01:42:34 --> DELETE FROM customers WHERE id=
+10-03-2023 01:42:35 --> DELETE FROM customers WHERE id=
+10-03-2023 01:45:02 --> DELETE FROM customers WHERE id=
+10-03-2023 01:59:14 --> DELETE FROM customers WHERE id=
+10-03-2023 01:59:14 --> DELETE FROM customers WHERE id=
+10-03-2023 02:01:56 --> DELETE FROM customers WHERE id=
+10-03-2023 02:03:00 --> DELETE FROM customers WHERE id=
+10-03-2023 02:04:23 --> DELETE FROM customers WHERE id=
+10-03-2023 02:07:46 --> DELETE FROM customers WHERE id=
+10-03-2023 02:07:52 --> DELETE FROM customers WHERE id=
+10-03-2023 02:08:51 --> DELETE FROM customers WHERE id=
+13-03-2023 04:18:19 --> select * from customers WHERE id=
+13-03-2023 08:07:19 --> select * from customers WHERE id=
+13-03-2023 08:08:31 --> select * from customers WHERE id=
+13-03-2023 08:08:35 --> select * from customers WHERE id=
+13-03-2023 08:39:36 --> select * from customers WHERE id=
+17-03-2023 06:32:35 --> select * from customers WHERE id=

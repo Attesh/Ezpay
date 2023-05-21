@@ -1,0 +1,34 @@
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews -Indexes
+    </IfModule>
+
+    RewriteEngine On
+	RewriteRule ^login/$ /app/api/login.php [NC,L]
+	
+	RewriteRule ^level/$ /app/api/level.php [NC,L]
+    RewriteRule ^matches/$ /app/api/matches.php [NC,L]
+	RewriteRule ^my-matches/$ /app/api/my-matches.php [NC,L] 
+    RewriteRule ^positions/$ /app/api/positions.php [NC,L]
+    RewriteRule ^register/$ /app/api/register.php [NC,L]
+	RewriteRule ^is_register/$ /app/api/is_register.php [NC,L]
+	RewriteRule ^verify-phone/$ /app/api/verify-phone.php [NC,L]
+	RewriteRule ^match_registration/$ /app/api/match_registration.php [NC,L]
+	RewriteRule ^wallet/$ /app/api/wallet.php [NC,L]
+    RewriteRule ^countries/$ /app/api/countries.php [NC,L]
+    RewriteRule ^reasons/$ /app/api/reasons.php [NC,L]
+    RewriteRule ^messages/$ /app/api/messages.php [NC,L]
+    RewriteRule ^support/$ /app/api/support.php [NC,L]
+    RewriteRule ^notifications/$ /app/api/notifications.php [NC,L]
+	RewriteRule ^payment-history/$ /app/api/payment-history.php [NC,L]
+	RewriteRule ^update-profile/$ /app/api/update-profile.php [NC,L]
+	RewriteRule ^update-password/$ /app/api/update-password.php [NC,L]
+	RewriteRule ^support_ticket_history/$ /app/api/support_ticket_history.php [NC,L]
+
+	RewriteRule ^post-chat-messages/$ /app/api/post-chat-messages.php [NC,L]
+	RewriteRule ^get-match-messages/$ /app/api/get-match-messages.php [NC,L]
+	RewriteRule ^privacypolicy/$ /app/api/privacypolicy.php [NC,L]
+
+ 
+</IfModule>
+ 

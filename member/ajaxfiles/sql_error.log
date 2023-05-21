@@ -1,0 +1,16 @@
+21-12-2022 08:56:36 --> DELETE FROM id = '5' WHERE order_detail
+21-12-2022 08:57:37 --> DELETE FROM id = '5' WHERE order_detail1
+21-12-2022 08:58:45 --> DELETE FROM order_detail1 WHERE id = '5'
+22-12-2022 07:17:32 --> select * from items WHERE item LIKE '%Zindagi Main Aasaani Ki Dua'ein with Urdu Tarjumah (2-Fold Dua Card)%'
+22-12-2022 07:17:39 --> select * from items WHERE item LIKE '%Zindagi Main Aasaani Ki Dua'ein with Urdu Tarjumah (2-Fold Dua Card)%'
+22-12-2022 09:40:04 --> select * from items WHERE item LIKE '%Book of Du'as for Children%'
+22-12-2022 09:40:05 --> select * from items WHERE item LIKE '%Book of Du'as for Children%'
+22-12-2022 09:40:09 --> select * from items WHERE item LIKE '%Book of Du'as for Children%'
+22-12-2022 09:40:09 --> select * from items WHERE item LIKE '%Book of Du'as for Children%'
+22-12-2022 09:40:10 --> select * from items WHERE item LIKE '%Book of Du'as for Children%'
+22-12-2022 10:15:33 --> insert into order_detail1 (order_id,isbn,name,publisher,list_price,sale_price,quantity,total_price) values ('7276','04010087','Zabaan Ki Hifazat (Urdu Only)','Al-Huda Publications','3.5','4.5','1','4.5')
+22-12-2022 10:56:01 --> select * from items WHERE isbn = 'if($_GET['dateTo']!==''){                $edate = $_GET['dateTo'] ;                $where =. " AND created_At <= $edate";              }'
+22-12-2022 10:56:01 --> select * from items WHERE isbn = 'if($_GET['dateTo']!==''){                $edate = $_GET['dateTo'] ;                $where =. " AND created_At <= $edate";              }'
+22-12-2022 10:56:04 --> select * from items WHERE isbn = 'if($_GET['dateTo']!==''){                $edate = $_GET['dateTo'] ;                $where =. " AND created_At <= $ed'
+22-12-2022 10:56:04 --> select * from items WHERE isbn = 'if($_GET['dateTo']!==''){                $edate = $_GET['dateTo'] ;                $where =. " AND created_At <= $ed'
+16-03-2023 07:24:11 --> select * from items WHERE item LIKE '%Zindagi Main Aasaani Ki Dua'ein with Urdu Tarjumah (2-Fold Dua Card)%'

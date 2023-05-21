@@ -7,20 +7,19 @@
 	
 			}
  
-		define("DBUSER","u652948030_ezpay");
-		define("DBPASS","C[vB1cRx;7");
-		// define("DBPASS","2>ZkvwwJ*");
-		// define("DBPASS","#O8c>uH@7Gd");
+		define("DBUSER","");
+		define("DBPASS","");
+		
 		define("HOST","localhost");
-		define("DATABASE","u652948030_ezpay");
+		define("DATABASE","");
 
 
 
-		define("BASEURL",$_SERVER['DOCUMENT_ROOT'].'/admin/');
+		define("BASEURL",$_SERVER['DOCUMENT_ROOT'].'');
 
 
 
-		define("SITEURL",'https://www.shipafrika.us/');
+		define("SITEURL",'');
 
 
 

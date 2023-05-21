@@ -330,7 +330,7 @@
       </div>
       <div class="modal-body">
         <!--  -->
-        <?php $publishable_key 	= "pk_test_znk9TUDpAtH5QCs5aPZJYL35xoGdNxkpTDieLcs1";?>
+        <?php $publishable_key 	= "";?>
         <form accept-charset="UTF-8" action="https://api.moyasar.com/v1/payments.html" method="POST">
   				<input type="hidden" name="callback_url" value="https://fisdemoprojects.com/ezpay/member/manage-subscription.php" />
   				<input type="hidden" name="publishable_api_key" value="<?php echo $publishable_key ?>" />

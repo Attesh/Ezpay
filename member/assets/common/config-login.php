@@ -2,10 +2,10 @@
 error_reporting(0);
 
 
-		define("DBUSER","u652948030_kitabhouse");
-		define("DBPASS","5YtUIC@rJ2");
+		define("DBUSER","");
+		define("DBPASS","");
 		define("HOST","localhost");
-		define("DATABASE","u652948030_kitabhouse");
+		define("DATABASE","");
 
 
 
@@ -13,7 +13,7 @@ error_reporting(0);
 
 
 
-		define("SITEURL",'https://www.shipafrika.us/');
+		define("SITEURL",'');
 
 
 

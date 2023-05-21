@@ -2,11 +2,11 @@
 // error_reporting(0);
 
 	 if(!class_exists("Dbase"))	{
-		define("DBUSER","shipaf5_auser");
+		define("DBUSER","");
 
 
 
-		define("DBPASS","E8Tfduag6x]$");
+		define("DBPASS","]$");
 
 
 
@@ -14,15 +14,15 @@
 
 
 
-		define("DATABASE","shipaf5_web");  
+		define("DATABASE","");  
 
 
 
-		define("BASEURL",$_SERVER['DOCUMENT_ROOT'].'/shipafrika/');
+		define("BASEURL",$_SERVER['DOCUMENT_ROOT'].'');
 
 
 
-		define("SITEURL",'http://shipafrika.us/');
+		define("SITEURL",'');
 
 
 

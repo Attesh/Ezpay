@@ -1,7 +1,7 @@
-##Ezpay Invoice System
+## **Ezpay Invoice System **
 Ezpay is an invoice system project developed using Laravel and PHP. It provides a platform for managing and processing invoices efficiently.
 
-##Requirements
+## **Requirements **
 To run the Ezpay project, ensure that you have the following requirements installed:
 
 PHP (version X.X.X): Ensure that PHP is installed on your system. You can download PHP from the official PHP website: php.net.
@@ -12,10 +12,10 @@ Composer: Composer is a dependency management tool for PHP. Make sure you have C
 
 Database: Choose a suitable database management system (e.g., MySQL, PostgreSQL) and ensure it is installed and configured correctly. Update the .env file in the project with the appropriate database connection details.
 
-Installation
+## **Installation ** 
 Follow these steps to set up and run the Ezpay project locally:
 
-Clone the repository:
+## ** Clone the repository: **
 
 bash
 Copy code
@@ -51,7 +51,7 @@ Copy code
 php artisan serve
 Access the application in your browser at http://localhost:8000.
 
-Features
+## ** Features **
 User Authentication: Allow users to register, log in, and manage their accounts securely.
 
 Invoice Management: Provide a user-friendly interface to create, view, edit, and delete invoices.
@@ -67,10 +67,10 @@ Notifications and Reminders: Send automated notifications and reminders for upco
 Contributing
 Contributions to the Ezpay project are welcome. If you would like to contribute, please follow the guidelines in the CONTRIBUTING.md file.
 
-License
+## ** License **
 The Ezpay project is open-source and released under the MIT License.
 
-Contact
-If you have any questions or feedback regarding the Ezpay project, please contact us at your-email@example.com.
+## ** Contact **
+If you have any questions or feedback regarding the Ezpay project, please contact us at kingbalti00@gmail.com.
 
 Feel free to customize the above README.md template according to your project's specific requirements and additional features. Providing clear instructions for installation, along with an overview of the project's features and how to contribute, will help users understand and engage with your Ezpay project effectively.
